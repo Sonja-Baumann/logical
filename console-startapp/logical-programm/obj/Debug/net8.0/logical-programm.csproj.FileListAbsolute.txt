@@ -1,0 +1,15 @@
+C:\Documents\github-repos\logical\console-startapp\logical-programm\bin\Debug\net8.0\logical-programm.exe
+C:\Documents\github-repos\logical\console-startapp\logical-programm\bin\Debug\net8.0\logical-programm.deps.json
+C:\Documents\github-repos\logical\console-startapp\logical-programm\bin\Debug\net8.0\logical-programm.runtimeconfig.json
+C:\Documents\github-repos\logical\console-startapp\logical-programm\bin\Debug\net8.0\logical-programm.dll
+C:\Documents\github-repos\logical\console-startapp\logical-programm\bin\Debug\net8.0\logical-programm.pdb
+C:\Documents\github-repos\logical\console-startapp\logical-programm\obj\Debug\net8.0\logical-programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documents\github-repos\logical\console-startapp\logical-programm\obj\Debug\net8.0\logical-programm.AssemblyInfoInputs.cache
+C:\Documents\github-repos\logical\console-startapp\logical-programm\obj\Debug\net8.0\logical-programm.AssemblyInfo.cs
+C:\Documents\github-repos\logical\console-startapp\logical-programm\obj\Debug\net8.0\logical-programm.csproj.CoreCompileInputs.cache
+C:\Documents\github-repos\logical\console-startapp\logical-programm\obj\Debug\net8.0\logical-programm.sourcelink.json
+C:\Documents\github-repos\logical\console-startapp\logical-programm\obj\Debug\net8.0\logical-programm.dll
+C:\Documents\github-repos\logical\console-startapp\logical-programm\obj\Debug\net8.0\refint\logical-programm.dll
+C:\Documents\github-repos\logical\console-startapp\logical-programm\obj\Debug\net8.0\logical-programm.pdb
+C:\Documents\github-repos\logical\console-startapp\logical-programm\obj\Debug\net8.0\logical-programm.genruntimeconfig.cache
+C:\Documents\github-repos\logical\console-startapp\logical-programm\obj\Debug\net8.0\ref\logical-programm.dll

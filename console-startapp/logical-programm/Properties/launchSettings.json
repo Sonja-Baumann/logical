@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "logical-programm": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
